@@ -1,0 +1,39 @@
+[ Contents ]
+- Done in a 224, 224 Image Size / Resized
+- Images range within 100-400x100-400 size
+
+[ Rankings ]
+- genshin_v2.h5
+- genshin_v1.h5 & genshin_v3.h5
+- genshin_v4.h5 & genshin_v5.h5
+
+[ genshin_v1.h5 ] [ 3/4 ]
+- Trained at 200 AI and 150 Non AI images
+- Validated 100 Samples
+- With 10 Epochs and a batch size of 16
+	
+[ genshin_v2.h5 ] [ 4/4 ]
+- Trained at 250 AI and 250 Non AI images
+- Validated 100 Samples
+- With 10 Epochs and a batch size of 16
+
+[ genshin_v3.h5 ] [ 3/4 ]
+- Trained at 250 AI and 250 Non AI images
+- Validated 200 Samples
+- With 15 Epochs and a batch size of 16
+
+[ genshin_v4.h5 ] [ 2/4 ]
+- Trained at 300 AI and 400 Non AI images
+- Validated 200 Samples
+- With 15 Epochs and a batch size of 16
+- Good accuracy with Non AI
+
+[ genshin_v5.h5 ] [ 2/4 ]
+- Trained at 400 AI and 400 Non AI images
+- Validated 400 Samples
+- With 15 Epochs and a batch size of 16
+
+[ genshin_v6.h5 ] [ 2/4 ]
+- Trained 600 Ai & Non AI images
+- Validated 200 Samples
+- With 15 Epochs and a batch size of 16
